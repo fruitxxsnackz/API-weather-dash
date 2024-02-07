@@ -1,0 +1,15 @@
+.fivedayforec {
+display: flex;
+display: inline-block;
+}
+
+.weather-box {
+border: 1px solid black;
+width: 200px;
+height: 250px;
+margin: 20px;
+}
+
+#dashboard {
+    background-image: linear-gradient(to right, powderblue, darkblue)
+}
